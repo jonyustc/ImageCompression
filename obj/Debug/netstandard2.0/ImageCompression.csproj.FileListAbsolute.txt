@@ -1,0 +1,9 @@
+G:\Pervez\DotNetCoreProject\ImageCompressionPackage\ImageCompression\bin\Debug\netstandard2.0\ImageCompression.deps.json
+G:\Pervez\DotNetCoreProject\ImageCompressionPackage\ImageCompression\bin\Debug\netstandard2.0\ImageCompression.dll
+G:\Pervez\DotNetCoreProject\ImageCompressionPackage\ImageCompression\bin\Debug\netstandard2.0\ImageCompression.pdb
+G:\Pervez\DotNetCoreProject\ImageCompressionPackage\ImageCompression\obj\Debug\netstandard2.0\ImageCompression.csprojAssemblyReference.cache
+G:\Pervez\DotNetCoreProject\ImageCompressionPackage\ImageCompression\obj\Debug\netstandard2.0\ImageCompression.AssemblyInfoInputs.cache
+G:\Pervez\DotNetCoreProject\ImageCompressionPackage\ImageCompression\obj\Debug\netstandard2.0\ImageCompression.AssemblyInfo.cs
+G:\Pervez\DotNetCoreProject\ImageCompressionPackage\ImageCompression\obj\Debug\netstandard2.0\ImageCompression.csproj.CoreCompileInputs.cache
+G:\Pervez\DotNetCoreProject\ImageCompressionPackage\ImageCompression\obj\Debug\netstandard2.0\ImageCompression.dll
+G:\Pervez\DotNetCoreProject\ImageCompressionPackage\ImageCompression\obj\Debug\netstandard2.0\ImageCompression.pdb

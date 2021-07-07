@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wo/3g5elJtzTrJbSZyT7F6WUFUVkkbM1qFQyEyK3We/o+LX+sfyhEggIYKilj0QbYnVCsuYI4BPlhmvAl2wuLg==",
+  "success": true,
+  "projectFilePath": "H:\\Pervez\\DotNetCoreProject\\ImageCompressionPackage\\ImageCompression\\ImageCompression.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pervez.meah\\.nuget\\packages\\system.drawing.common\\5.0.1\\system.drawing.common.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

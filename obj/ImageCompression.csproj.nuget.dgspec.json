@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Pervez\\DotNetCoreProject\\ImageCompressionPackage\\ImageCompression\\ImageCompression.csproj": {}
+  },
+  "projects": {
+    "H:\\Pervez\\DotNetCoreProject\\ImageCompressionPackage\\ImageCompression\\ImageCompression.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "H:\\Pervez\\DotNetCoreProject\\ImageCompressionPackage\\ImageCompression\\ImageCompression.csproj",
+        "projectName": "ImageCompression_Pervez",
+        "projectPath": "H:\\Pervez\\DotNetCoreProject\\ImageCompressionPackage\\ImageCompression\\ImageCompression.csproj",
+        "packagesPath": "C:\\Users\\pervez.meah\\.nuget\\packages\\",
+        "outputPath": "H:\\Pervez\\DotNetCoreProject\\ImageCompressionPackage\\ImageCompression\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pervez.meah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
