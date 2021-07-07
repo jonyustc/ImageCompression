@@ -9,6 +9,7 @@ namespace ImageCompression
 {
     public class CompressionImage
     {
+        // This packege for above .net 4.7
         /// <summary> 
         /// Saves an image as a jpeg image, with the given quality 
         /// </summary> 
